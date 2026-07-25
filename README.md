@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=druslan&label=Profile%20views&color=0e75b6&style=flat" alt="druslan" /> </p>
 
-- 🔭 I’m currently working on [Get-offer](https://get-offer.ru)
-
-- 👯 I’m looking to collaborate on [Get-offer](https://get-offer.ru)
-
 - 📫 How to reach me **ruslan.denislamov@mail.ru**
 
 - 📄 Know about my experiences [https://novosibirsk.hh.ru/resume/18961f15ff033349200039ed1f306868736279](https://novosibirsk.hh.ru/resume/18961f15ff033349200039ed1f306868736279)
